@@ -1,0 +1,9 @@
+# AWS credentials
+.aws/
+credentials
+*.pem
+*.key
+
+# Environmental files
+.env
+.env.*
