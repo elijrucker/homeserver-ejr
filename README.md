@@ -1,4 +1,4 @@
-# homeserver-docker
+# homeserver-ejr
 
 A local Linux server configured for containerized and versioned software development and education. Built on Ubuntu Server 24.04 LTS with Tailscale for secure remote access and Docker for containerized development environments
 
