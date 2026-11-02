@@ -2,8 +2,6 @@
 
 A self-hosted Linux server built for containerized and versioned software development. Built on Ubuntu Server 24.04 LTS with Tailscale for secure remote access, Caddy as a reverse proxy, and Docker for containerized development environments.
 
-> This repository is shared publicly for portfolio and case-study purposes. No license is granted for reuse, modification, or redistribution — all rights reserved.
-
 ## Stack
 
 - **OS:** Ubuntu Server 24.04 LTS (systemd)
@@ -55,8 +53,9 @@ Running on a Beelink EQi13 Pro, selected for its power efficiency relative to si
 
 Containerized development environments for local and remote use. Sensitive credentials and environment files are excluded via `.gitignore` and mounted at runtime rather than baked into images.
 
+### License
 
-
+This repository is shared publicly for portfolio and case-study purposes. No license is granted for reuse, modification, or redistribution. All rights reserved.
 
 
 
